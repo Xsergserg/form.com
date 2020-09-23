@@ -1,0 +1,13 @@
+.header_text 
+{
+	font-size: 30px;
+	font-weight: bold;
+	color: orangered;
+	text-align: center;
+}
+
+.form_text
+{
+	font-size: 20px;
+	text-align: left;
+}
